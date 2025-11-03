@@ -114,7 +114,8 @@ GMAIL_PASS=your_gmail_app_password
 | email           | Owner’s email address |
 
 ---
-
+if you have know about step by step process see my Document.md file : [click-here](/Document.md)
+---
 ## 🚀 Running Locally
 
 ```bash
