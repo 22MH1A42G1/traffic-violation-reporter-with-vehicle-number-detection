@@ -10,7 +10,7 @@ A web-based AI system that detects and reports traffic violations from uploaded 
 [![Architecture](https://github.com/22MH1A42G1/traffic-violation-reporter-with-vehicle-number-detection/blob/main/img/WorkFlow.png)](https://www.youtube.com/watch?v=RBIyEDNF6ic)
 
 ### Video go this link
-[![Drive.Google.com/file/d/](https://drive.google.com/file/d/1ZvwF75jRSGGntj-UcuBVBOzaAAfQBw_y/view?usp=drivesdk)]
+![Drive.Google.com/file/d/](https://drive.google.com/file/d/1ZvwF75jRSGGntj-UcuBVBOzaAAfQBw_y/view?usp=drivesdk)
 ---
 
 ## 📌 Features
